@@ -13,7 +13,7 @@ Patients Appointments Booking App (PAMS) — Spring Boot lab project for MIU CS4
 
 - **Course:** CS425 - Software Engineering
 - **Module:** `lab10a`
-- **Stack:** Java 17, Spring Boot, Maven, Thymeleaf
+- **Stack:** Java 21, Spring Boot, Maven, Thymeleaf
 
 ## Run
 
