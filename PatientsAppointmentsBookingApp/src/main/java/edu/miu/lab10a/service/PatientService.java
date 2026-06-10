@@ -1,7 +1,7 @@
-package edu.miu.patientsappointmentsbookingapp.service;
+package edu.miu.lab10a.service;
 
-import edu.miu.patientsappointmentsbookingapp.model.Patient;
-import edu.miu.patientsappointmentsbookingapp.repository.PatientRepository;
+import edu.miu.lab10a.model.Patient;
+import edu.miu.lab10a.repository.PatientRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Comparator;

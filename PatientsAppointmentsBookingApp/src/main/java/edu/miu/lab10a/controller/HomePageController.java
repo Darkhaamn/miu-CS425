@@ -1,4 +1,4 @@
-package edu.miu.patientsappointmentsbookingapp.controller;
+package edu.miu.lab10a.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,7 +1,7 @@
-package edu.miu.patientsappointmentsbookingapp.repository;
+package edu.miu.lab10a.repository;
 
-import edu.miu.patientsappointmentsbookingapp.model.Address;
-import edu.miu.patientsappointmentsbookingapp.model.Patient;
+import edu.miu.lab10a.model.Address;
+import edu.miu.lab10a.model.Patient;
 import org.springframework.stereotype.Repository;
 
 import java.time.LocalDate;

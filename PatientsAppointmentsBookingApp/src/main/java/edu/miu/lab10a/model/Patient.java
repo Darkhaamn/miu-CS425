@@ -1,4 +1,4 @@
-package edu.miu.patientsappointmentsbookingapp.model;
+package edu.miu.lab10a.model;
 
 import java.time.LocalDate;
 import java.time.Period;

@@ -1,4 +1,4 @@
-package edu.miu.patientsappointmentsbookingapp;
+package edu.miu.lab10a;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
