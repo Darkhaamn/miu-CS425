@@ -20,4 +20,6 @@ Patients Appointments Booking App (PAMS) — Spring Boot lab project for MIU CS4
 ```bash
 cd lab10a
 ./mvnw spring-boot:run
+
+a
 ```
